@@ -11,7 +11,7 @@
     <version>1.2-SNAPSHOT</version>
     <packaging>hpi</packaging>
     <name>Disable GitHub Multibranch Status Plugin</name>
-    <url>https://wiki.jenkins-ci.org/display/JENKINS/Disable+GitHub+Multibranch+Status+Plugin</url>
+    <url>https://github.com/jenkinsci/disable-github-multibranch-status-plugin</url>
     <description>Adds support for disabling the GitHub status for a Multibranch pipeline job.</description>
     <licenses>
         <license>
